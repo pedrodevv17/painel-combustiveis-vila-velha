@@ -38,11 +38,7 @@ O que ele mostra:
 | Evolução no tempo | Gráfico e tabela da variação de preço, com posto e combustível à escolha do usuário |
 | Gráficos gerais | Evolução do preço médio por combustível e comparação entre postos |
 
-### Publicar no GitHub Pages
 
-1. Crie um repositório novo no GitHub e suba todo o conteúdo desta pasta.
-2. Vá em **Settings → Pages**, escolha a branch `main` e a pasta raiz (`/`), e salve.
-3. Depois de 1–2 minutos, o GitHub mostra o link definitivo (`seuusuario.github.io/nome-do-repo`) — atualize esse link no topo deste README.
 
 ## 2. O banco de dados (`sql/`)
 
